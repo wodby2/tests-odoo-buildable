@@ -1,0 +1,6 @@
+<odoo>
+    <record id="hello_param" model="ir.config_parameter">
+        <field name="key">wodby_hello.greeting</field>
+        <field name="value">one</field>
+    </record>
+</odoo>
